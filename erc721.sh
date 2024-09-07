@@ -145,4 +145,4 @@ echo "Minting NFT..."
 npx hardhat run scripts/mint.js --network swisstronik
 echo "NFT minted."
 
-echo "Done! Subscribe: https://t.me/CryptoVenturesinkannada"chmod +x erc721.sh && ./erc721.sh
+echo "Done! Subscribe: https://t.me/CryptoVenturesinkannada"
